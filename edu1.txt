@@ -1,1 +1,2 @@
 Hello souma you have created a text file using linux commands.
+edu1 is modified .
